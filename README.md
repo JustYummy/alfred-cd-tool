@@ -1,4 +1,4 @@
-# Alfred_cdTool_for_iTerm
+# alfred cd tool for iTerm
 This is based on [CDto](https://github.com/stidio/Alfred-Workflow)
 ### 1.How to use?
 ![pic](https://github.com/JustYummy/Alfred_cdTool_for_iTerm/blob/master/Pic/Pic1.png)
